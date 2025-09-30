@@ -25,14 +25,13 @@ o	Display the data using real-time plots.
  
 ## Program:
 
-## Expected Output
 
 
 
-## Graphical Output:
+## Output:
 
 
  
-## Results:
+## Result:
 The MATLAB program successfully receives and visualizes real-time battery voltage, temperature, and speed data from the embedded system using wireless communication.
 
